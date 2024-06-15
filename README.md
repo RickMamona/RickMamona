@@ -1,10 +1,14 @@
 # Rick Silva Mamona
 
-°Um eterno apaixonado por tecnologia.
-°Transformando Hobby em Trabalho fazendo o que eu amo. 
-°GESTÃO DE TI.
-°Mba em gestão comercial.
-°Estudante de JAVA.
+Um eterno apaixonado por tecnologia.
+
+Transformando Hobby em Trabalho fazendo o que eu amo. 
+
+Gestão de TI.
+
+Mba em gestão comercial.
+
+Estudante de JAVA.
 
 
 
