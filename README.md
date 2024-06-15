@@ -10,6 +10,8 @@ Mba em gestão comercial.
 
 Estudante de JAVA.
 
+Sempre em busca de desafios e resoluções
+
 
 
 
