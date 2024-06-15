@@ -1,7 +1,11 @@
 # Rick Silva Mamona
 
-Um eterno apaixonado por tecnologia, transformando Hobby em Trabalho fazendo o que eu amo. 
-Formado em GESTÃO DE TI, Mba em gestão comercial, Curso em Desenvolvimento Android Mobile. Fácil comunicação e aprendizado.
+Um eterno apaixonado por tecnologia.
+Transformando Hobby em Trabalho fazendo o que eu amo. 
+GESTÃO DE TI.
+Mba em gestão comercial.
+Estudante de JAVA.
+
 
 
 
